@@ -1,0 +1,442 @@
+[
+  {
+    "question": "หน้าที่หลักของเม็ดเลือดแดงคืออะไร?",
+    "answers": [
+      "ขนส่งออกซิเจน",
+      "ต่อสู้กับการติดเชื้อ",
+      "แข็งตัวของเลือด",
+      "ควบคุมอุณหภูมิของร่างกาย"
+    ],
+    "correctAnswer": "ขนส่งออกซิเจน"
+  },
+  {
+    "question": "อวัยวะที่ใหญ่ที่สุดในร่างกายมนุษย์คืออะไร?",
+    "answers": [
+      "ผิวหนัง",
+      "ตับ",
+      "หัวใจ",
+      "ปอด"
+    ],
+    "correctAnswer": "ผิวหนัง"
+  },
+  {
+    "question": "วิตามินใดที่จำเป็นสำหรับการแข็งตัวของเลือด?",
+    "answers": [
+      "วิตามินเค",
+      "วิตามินเอ",
+      "วิตามินดี",
+      "วิตามินซี"
+    ],
+    "correctAnswer": "วิตามินเค"
+  },
+  {
+    "question": "อุณหภูมิร่างกายปกติในเซลเซียสคือเท่าไร?",
+    "answers": [
+      "36.5-37.5",
+      "35.0-36.0",
+      "38.0-39.0",
+      "34.0-35.0"
+    ],
+    "correctAnswer": "36.5-37.5"
+  },
+  {
+    "question": "อวัยวะใดที่มีหน้าที่กำจัดสารพิษและเผาผลาญยา?",
+    "answers": [
+      "ตับ",
+      "ไต",
+      "หัวใจ",
+      "ปอด"
+    ],
+    "correctAnswer": "ตับ"
+  },
+  {
+    "question": "หมู่เลือดใดที่พบมากที่สุด?",
+    "answers": [
+      "O",
+      "A",
+      "B",
+      "AB"
+    ],
+    "correctAnswer": "O"
+  },
+  {
+    "question": "ส่วนใดของสมองที่รับผิดชอบการทรงตัวและการประสานงาน?",
+    "answers": [
+      "ซีรีเบลลัม",
+      "ซีรีบรัม",
+      "ก้านสมอง",
+      "ไฮโปธาลามัส"
+    ],
+    "correctAnswer": "ซีรีเบลลัม"
+  },
+  {
+    "question": "ฮอร์โมนใดที่ควบคุมระดับน้ำตาลในเลือด?",
+    "answers": [
+      "อินซูลิน",
+      "อะดรีนาลีน",
+      "ไทรอกซีน",
+      "คอร์ติซอล"
+    ],
+    "correctAnswer": "อินซูลิน"
+  },
+  {
+    "question": "หน้าที่หลักของเม็ดเลือดขาวคืออะไร?",
+    "answers": [
+      "ต่อสู้กับการติดเชื้อ",
+      "ขนส่งออกซิเจน",
+      "แข็งตัวของเลือด",
+      "ควบคุมอุณหภูมิของร่างกาย"
+    ],
+    "correctAnswer": "ต่อสู้กับการติดเชื้อ"
+  },
+  {
+    "question": "ส่วนใดของหัวใจที่สูบฉีดเลือดที่มีออกซิเจนไปยังร่างกาย?",
+    "answers": [
+      "ห้องล่างซ้าย",
+      "ห้องล่างขวา",
+      "ห้องบนซ้าย",
+      "ห้องบนขวา"
+    ],
+    "correctAnswer": "ห้องล่างซ้าย"
+  },
+  {
+    "question": "ค่า pH เฉลี่ยของเลือดมนุษย์คือเท่าไร?",
+    "answers": [
+      "7.4",
+      "6.8",
+      "7.0",
+      "8.0"
+    ],
+    "correctAnswer": "7.4"
+  },
+  {
+    "question": "สารอาหารใดที่จำเป็นสำหรับกระดูกและฟันที่แข็งแรง?",
+    "answers": [
+      "แคลเซียม",
+      "เหล็ก",
+      "โพแทสเซียม",
+      "วิตามินอี"
+    ],
+    "correctAnswer": "แคลเซียม"
+  },
+  {
+    "question": "หน้าที่หลักของเกล็ดเลือดคืออะไร?",
+    "answers": [
+      "แข็งตัวของเลือด",
+      "ขนส่งออกซิเจน",
+      "ต่อสู้กับการติดเชื้อ",
+      "ควบคุมอุณหภูมิของร่างกาย"
+    ],
+    "correctAnswer": "แข็งตัวของเลือด"
+  },
+  {
+    "question": "ส่วนใดของระบบย่อยอาหารที่ดูดซึมสารอาหารมากที่สุด?",
+    "answers": [
+      "ลำไส้เล็ก",
+      "กระเพาะอาหาร",
+      "ลำไส้ใหญ่",
+      "หลอดอาหาร"
+    ],
+    "correctAnswer": "ลำไส้เล็ก"
+  },
+  {
+    "question": "หน้าที่หลักของไตคืออะไร?",
+    "answers": [
+      "กรองเลือด",
+      "ผลิตฮอร์โมน",
+      "เก็บน้ำดี",
+      "ควบคุมอุณหภูมิของร่างกาย"
+    ],
+    "correctAnswer": "กรองเลือด"
+  },
+  {
+    "question": "ส่วนใดของสมองที่ควบคุมการผลิตคำพูด?",
+    "answers": [
+      "พื้นที่โบรคา",
+      "พื้นที่เวอร์นิก",
+      "ฮิปโปแคมปัส",
+      "อะมิกดาลา"
+    ],
+    "correctAnswer": "พื้นที่โบรคา"
+  },
+  {
+    "question": "วิตามินใดที่สร้างขึ้นเมื่อผิวสัมผัสแสงแดด?",
+    "answers": [
+      "วิตามินดี",
+      "วิตามินเอ",
+      "วิตามินซี",
+      "วิตามินเค"
+    ],
+    "correctAnswer": "วิตามินดี"
+  },
+  {
+    "question": "หน้าที่ของตับอ่อนคืออะไร?",
+    "answers": [
+      "ผลิตอินซูลิน",
+      "ผลิตน้ำดี",
+      "กรองเลือด",
+      "เก็บวิตามิน"
+    ],
+    "correctAnswer": "ผลิตอินซูลิน"
+  },
+  {
+    "question": "หลอดเลือดใดที่นำเลือดที่มีออกซิเจนออกจากหัวใจ?",
+    "answers": [
+      "หลอดเลือดแดง",
+      "หลอดเลือดดำ",
+      "เส้นเลือดฝอย",
+      "หลอดน้ำเหลือง"
+    ],
+    "correctAnswer": "หลอดเลือดแดง"
+  },
+  {
+    "question": "หน่วยที่เล็กที่สุดของชีวิตคืออะไร?",
+    "answers": [
+      "เซลล์",
+      "อะตอม",
+      "โมเลกุล",
+      "อวัยวะ"
+    ],
+    "correctAnswer": "เซลล์"
+  },
+  {
+    "question": "อะไรคือชื่อทางการแพทย์ของโรคหลอดเลือดหัวใจตีบ?",
+    "answers": ["Coronary artery disease", "Arrhythmia", "Myocarditis", "Endocarditis"],
+    "correctAnswer": "Coronary artery disease"
+  },
+  {
+    "question": "วัคซีนชนิดใดที่ช่วยป้องกันโรคไวรัสตับอักเสบชนิดบี?",
+    "answers": ["MMR vaccine", "Hepatitis B vaccine", "Influenza vaccine", "DTP vaccine"],
+    "correctAnswer": "Hepatitis B vaccine"
+  },
+  {
+    "question": "โรคใดที่เกิดจากการขาดวิตามินซี?",
+    "answers": ["Rickets", "Scurvy", "Beriberi", "Pellagra"],
+    "correctAnswer": "Scurvy"
+  },
+  {
+    "question": "อะไรคือเครื่องมือทางการแพทย์ที่ใช้ในการวัดความดันโลหิต?",
+    "answers": ["Stethoscope", "Sphygmomanometer", "Otoscope", "Thermometer"],
+    "correctAnswer": "Sphygmomanometer"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการสะสมของไขมันในตับ?",
+    "answers": ["Cirrhosis", "Hepatitis", "Fatty liver disease", "Gallstones"],
+    "correctAnswer": "Fatty liver disease"
+  },
+  {
+    "question": "ยาปฏิชีวนะชนิดใดที่ใช้รักษาการติดเชื้อแบคทีเรีย?",
+    "answers": ["Paracetamol", "Penicillin", "Ibuprofen", "Aspirin"],
+    "correctAnswer": "Penicillin"
+  },
+  {
+    "question": "โรคใดที่มีลักษณะการทำงานผิดปกติของระบบภูมิคุ้มกันที่โจมตีเซลล์ตับอ่อน?",
+    "answers": ["Type 1 diabetes", "Type 2 diabetes", "Hypertension", "Hyperlipidemia"],
+    "correctAnswer": "Type 1 diabetes"
+  },
+  {
+    "question": "อะไรคือการทดสอบที่ใช้ในการวินิจฉัยโรคเบาหวาน?",
+    "answers": ["MRI scan", "Blood glucose test", "X-ray", "Urinalysis"],
+    "correctAnswer": "Blood glucose test"
+  },
+  {
+    "question": "ยาลดไข้ชนิดใดที่ใช้ในการลดอาการเจ็บปวดและอักเสบ?",
+    "answers": ["Antipyretic", "Antacid", "Antihistamine", "Antidepressant"],
+    "correctAnswer": "Antipyretic"
+  },
+  {
+    "question": "อะไรคือชื่อที่ใช้เรียกเซลล์เม็ดเลือดขาวชนิดหนึ่งที่ทำหน้าที่ในการป้องกันร่างกายจากการติดเชื้อ?",
+    "answers": ["Erythrocyte", "Thrombocyte", "Leukocyte", "Lymphocyte"],
+    "correctAnswer": "Leukocyte"
+  },
+  {
+    "question": "โรคใดที่มีลักษณะการสูญเสียความยืดหยุ่นของกล้ามเนื้อในลำไส้ใหญ่?",
+    "answers": ["Diverticulosis", "Crohn's disease", "Ulcerative colitis", "Irritable bowel syndrome"],
+    "correctAnswer": "Diverticulosis"
+  },
+  {
+    "question": "การตรวจใดที่ใช้ในการวินิจฉัยการติดเชื้อ HIV?",
+    "answers": ["MRI scan", "ELISA test", "X-ray", "CT scan"],
+    "correctAnswer": "ELISA test"
+  },
+  {
+    "question": "อะไรคือสาเหตุของโรคปอดอักเสบ?",
+    "answers": ["Virus", "Bacteria", "Fungi", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการทำงานของต่อมไทรอยด์ผิดปกติ?",
+    "answers": ["Hypothyroidism", "Hyperthyroidism", "Thyroid cancer", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "อะไรคือวิธีการวัดค่าความอิ่มตัวของออกซิเจนในเลือด?",
+    "answers": ["Blood pressure monitor", "Pulse oximeter", "ECG machine", "Thermometer"],
+    "correctAnswer": "Pulse oximeter"
+  },
+  {
+    "question": "โรคใดที่มีลักษณะการอักเสบของข้อต่อ?",
+    "answers": ["Arthritis", "Osteoporosis", "Gout", "Rheumatism"],
+    "correctAnswer": "Arthritis"
+  },
+  {
+    "question": "อะไรคือการรักษาที่ใช้ในการจัดการอาการของโรคซึมเศร้า?",
+    "answers": ["Antibiotics", "Antidepressants", "Antihistamines", "Antacids"],
+    "correctAnswer": "Antidepressants"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการสะสมของไขมันในหลอดเลือดแดง?",
+    "answers": ["Hypertension", "Atherosclerosis", "Arrhythmia", "Anemia"],
+    "correctAnswer": "Atherosclerosis"
+  },
+  {
+    "question": "อะไรคือเครื่องมือที่ใช้ในการวินิจฉัยการทำงานของหัวใจ?",
+    "answers": ["Echocardiogram", "EEG", "MRI", "CT scan"],
+    "correctAnswer": "Echocardiogram"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการขาดธาตุเหล็กในเลือด?",
+    "answers": ["Anemia", "Leukemia", "Hemophilia", "Polycythemia"],
+    "correctAnswer": "Anemia"
+  },
+  {
+    "question": "อะไรคือการทดสอบที่ใช้ในการวินิจฉัยโรคมะเร็งปอด?",
+    "answers": ["Chest X-ray", "EKG", "MRI", "Bone scan"],
+    "correctAnswer": "Chest X-ray"
+  },
+  {
+    "question": "โรคใดที่เกิดจากการติดเชื้อไวรัสที่ทำให้เกิดอาการคลื่นไส้อาเจียน?",
+    "answers": ["Influenza", "Norovirus", "Hepatitis B", "Tuberculosis"],
+    "correctAnswer": "Norovirus"
+  },
+  {
+    "question": "อะไรคือชื่อที่ใช้เรียกสารเคมีที่ใช้ในการรักษาโรคมะเร็ง?",
+    "answers": ["Antibiotics", "Chemotherapy", "Antivirals", "Vaccines"],
+    "correctAnswer": "Chemotherapy"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการขาดวิตามินดี?",
+    "answers": ["Scurvy", "Rickets", "Pellagra", "Beriberi"],
+    "correctAnswer": "Rickets"
+  },
+  {
+    "question": "อะไรคือการทดสอบที่ใช้ในการวินิจฉัยการติดเชื้อไวรัสโคโรน่า?",
+    "answers": ["PCR test", "X-ray", "MRI", "CT scan"],
+    "correctAnswer": "PCR test"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการทำงานผิดปกติของระบบภูมิคุ้มกันที่ทำให้เกิดการอักเสบของข้อต่อ?",
+    "answers": ["Arthritis", "Rheumatoid arthritis", "Osteoporosis", "Gout"],
+    "correctAnswer": "Rheumatoid arthritis"
+  },
+  {
+    "question": "อะไรคือชื่อที่ใช้เรียกยาที่ใช้ในการลดความดันโลหิต?",
+    "answers": ["Antihistamines", "Beta blockers", "Antibiotics", "Antivirals"],
+    "correctAnswer": "Beta blockers"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการติดเชื้อไวรัสที่ทำให้เกิดอาการของระบบทางเดินหายใจ?",
+    "answers": ["Influenza", "Tuberculosis", "Hepatitis B", "Malaria"],
+    "correctAnswer": "Influenza"
+  },
+  {
+    "question": "อะไรคือการทดสอบที่ใช้ในการวินิจฉัยโรคหัวใจ?",
+    "answers": ["EKG", "MRI", "CT scan", "X-ray"],
+    "correctAnswer": "EKG"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการสะสมของสารพิษในตับ?",
+    "answers": ["Cirrhosis", "Hepatitis", "Fatty liver disease", "Gallstones"],
+    "correctAnswer": "Cirrhosis"
+  },
+  {
+    "question": "อะไรคือการรักษาที่ใช้ในการจัดการอาการของโรคภูมิแพ้?",
+    "answers": ["Antibiotics", "Antihistamines", "Antivirals", "Vaccines"],
+    "correctAnswer": "Antihistamines"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการขาดวิตามินบี?",
+    "answers": ["Scurvy", "Rickets", "Pellagra", "Beriberi"],
+    "correctAnswer": "Beriberi"
+  },
+  {
+    "question": "อะไรคือการทดสอบที่ใช้ในการวินิจฉัยการติดเชื้อไวรัสเอชไอวี?",
+    "answers": ["ELISA test", "MRI", "X-ray", "CT scan"],
+    "correctAnswer": "ELISA test"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการสะสมของไขมันในหลอดเลือดหัวใจ?",
+    "answers": ["Hypertension", "Atherosclerosis", "Arrhythmia", "Anemia"],
+    "correctAnswer": "Atherosclerosis"
+  },
+  {
+    "question": "อะไรคือเครื่องมือที่ใช้ในการวินิจฉัยการทำงานของหัวใจ?",
+    "answers": ["Echocardiogram", "EEG", "MRI", "CT scan"],
+    "correctAnswer": "Echocardiogram"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการขาดธาตุเหล็กในเลือด?",
+    "answers": ["Anemia", "Leukemia", "Hemophilia", "Polycythemia"],
+    "correctAnswer": "Anemia"
+  },
+  {
+    "question": "อะไรคือการทดสอบที่ใช้ในการวินิจฉัยโรคมะเร็งปอด?",
+    "answers": ["Chest X-ray", "EKG", "MRI", "Bone scan"],
+    "correctAnswer": "Chest X-ray"
+  },
+  {
+    "question": "โรคใดที่เกิดจากการติดเชื้อไวรัสที่ทำให้เกิดอาการคลื่นไส้อาเจียน?",
+    "answers": ["Influenza", "Norovirus", "Hepatitis B", "Tuberculosis"],
+    "correctAnswer": "Norovirus"
+  },
+  {
+    "question": "อะไรคือชื่อที่ใช้เรียกสารเคมีที่ใช้ในการรักษาโรคมะเร็ง?",
+    "answers": ["Antibiotics", "Chemotherapy", "Antivirals", "Vaccines"],
+    "correctAnswer": "Chemotherapy"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการขาดวิตามินดี?",
+    "answers": ["Scurvy", "Rickets", "Pellagra", "Beriberi"],
+    "correctAnswer": "Rickets"
+  },
+  {
+    "question": "อะไรคือการทดสอบที่ใช้ในการวินิจฉัยการติดเชื้อไวรัสโคโรน่า?",
+    "answers": ["PCR test", "X-ray", "MRI", "CT scan"],
+    "correctAnswer": "PCR test"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการทำงานผิดปกติของระบบภูมิคุ้มกันที่ทำให้เกิดการอักเสบของข้อต่อ?",
+    "answers": ["Arthritis", "Rheumatoid arthritis", "Osteoporosis", "Gout"],
+    "correctAnswer": "Rheumatoid arthritis"
+  },
+  {
+    "question": "อะไรคือชื่อที่ใช้เรียกยาที่ใช้ในการลดความดันโลหิต?",
+    "answers": ["Antihistamines", "Beta blockers", "Antibiotics", "Antivirals"],
+    "correctAnswer": "Beta blockers"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการติดเชื้อไวรัสที่ทำให้เกิดอาการของระบบทางเดินหายใจ?",
+    "answers": ["Influenza", "Tuberculosis", "Hepatitis B", "Malaria"],
+    "correctAnswer": "Influenza"
+  },
+  {
+    "question": "อะไรคือการทดสอบที่ใช้ในการวินิจฉัยโรคหัวใจ?",
+    "answers": ["EKG", "MRI", "CT scan", "X-ray"],
+    "correctAnswer": "EKG"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการสะสมของสารพิษในตับ?",
+    "answers": ["Cirrhosis", "Hepatitis", "Fatty liver disease", "Gallstones"],
+    "correctAnswer": "Cirrhosis"
+  },
+  {
+    "question": "อะไรคือการรักษาที่ใช้ในการจัดการอาการของโรคภูมิแพ้?",
+    "answers": ["Antibiotics", "Antihistamines", "Antivirals", "Vaccines"],
+    "correctAnswer": "Antihistamines"
+  },
+  {
+    "question": "โรคใดที่เกี่ยวข้องกับการขาดวิตามินบี?",
+    "answers": ["Scurvy", "Rickets", "Pellagra", "Beriberi"],
+    "correctAnswer": "Beriberi"
+  }
+]
